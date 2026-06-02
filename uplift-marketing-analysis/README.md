@@ -94,9 +94,3 @@ uplift-marketing-analysis/
    └─ interview_cheatsheet.md
 ```
 
-## 面试表达建议
-
-本项目不要包装成“模型效果很好”或“ROI 显著提升”的项目。更合适的表达是：
-
-> 基于 6.4 万条电商营销实验数据，完整跑通数据探索、特征工程、Two-Model Uplift 建模、Qini 评估、策略对比和 ROI 离线模拟流程。结果显示营销干预平均有效，但 Two-Model 在该数据集上的增量排序效果有限，因此进一步总结了模型局限和后续优化方向。
-
